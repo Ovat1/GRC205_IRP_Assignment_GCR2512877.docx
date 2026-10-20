@@ -1,5 +1,6 @@
 # GRC205_IRP_Assignment_GCR2512877.docx
 ICDFA GRC 205 ASSIGNMENT
+
 Summary
 Objective:
 This project is a comprehensive incident response planning assignment for a fictional training institute, Northbridge Skills Institute, facing a suspected ransomware incident with a live examination deadline. The goal was to act as Incident Response Lead, analyse the evidence, classify the incident, and produce a coordinated, defensible response plan aligned with NIST SP 800-61r3 / CSF 2.0, CISA #StopRansomware guidance, and business continuity principles.
